@@ -50,7 +50,7 @@ category = st.selectbox(
 
 
 metric = st.selectbox(
-    'Pick a metric to compare across Education levels',
+    'Pick a metric to compare',
     valid_cols)
 
 
